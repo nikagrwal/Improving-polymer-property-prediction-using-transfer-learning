@@ -1,2 +1,17 @@
 # Improving-polymer-property-prediction-using-transfer-learning
-This project is my master thesis.
+
+This project is part of my master thesis.
+
+## Documentation: [here](https://drive.google.com/file/d/1TG5VxRb4mNdCcCM1AKmJr1xIwkTk1-OF/view?usp=sharing)
+
+## Demo App: https://band-gap-predictor.streamlit.app/
+
+For this repository to work, please follow the following steps:
+
+1. Install the requirements.txt file
+2. Please run below files to set up data before training any models.
+
+- data_molecules.ipynb
+- data_polymers.ipynb
+
+** Note ** Please note this repository only has state_dictionaries for base molecule models that can be reused to train any transfer learning models. The models can be trained by directly running the Jupyter notebooks.
