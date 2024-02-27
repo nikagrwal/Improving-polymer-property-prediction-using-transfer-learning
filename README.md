@@ -1,8 +1,8 @@
-# Improving-polymer-property-prediction-using-transfer-learning
+# Improving polymer property prediction using transfer learning
 
-This project is part of my master thesis.
+This repository consist of implementations of base molecule and polymer models using Circular, PolyBERT and MiniLM fingerprints. Using the base molecule model, we implement transfer learning techniques, zero-shot and few-shot learning, fine-tuning and frozen featurization.
 
-## Documentation: [here](https://drive.google.com/file/d/1TG5VxRb4mNdCcCM1AKmJr1xIwkTk1-OF/view?usp=sharing)
+:green_book: See the [Documentation](https://drive.google.com/file/d/1TG5VxRb4mNdCcCM1AKmJr1xIwkTk1-OF/view?usp=sharing)
 
 ## Demo App: https://band-gap-predictor.streamlit.app/
 
