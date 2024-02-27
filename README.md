@@ -4,7 +4,7 @@ This repository consist of implementations of base molecule and polymer models u
 
 :green_book: See the [Documentation](https://drive.google.com/file/d/1TG5VxRb4mNdCcCM1AKmJr1xIwkTk1-OF/view?usp=sharing)
 
-## Demo App: https://band-gap-predictor.streamlit.app/
+:computer: Try the predictor: [Here](https://band-gap-predictor.streamlit.app/)
 
 For this repository to work, please follow the following steps:
 
