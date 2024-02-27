@@ -6,6 +6,10 @@ This repository consist of implementations of base molecule and polymer models u
 
 :computer: Try the predictor: [Here](https://band-gap-predictor.streamlit.app/)
 
+## Instructions to use this repoository.
+
+The given CSV files only consist of SMILES and PSMILES strings and their properties. So we need to convert these strings to fingerprints. To do so please follow below instructions:
+
 For this repository to work, please follow the following steps:
 
 1. Install the requirements.txt file
